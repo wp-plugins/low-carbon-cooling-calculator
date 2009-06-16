@@ -4,7 +4,7 @@ Donate link: http://www.watkinshire.co.uk/
 Tags: sidebar, widget, low, carbon, cooling, calculator, low carbon cooling calculator
 Requires at least: 2.5
 Tested up to: 2.7.1
-Stable tag: 1.0
+Stable tag: 1.01
 
 Adds a sidebar widget that display a low carbon cooling calculator.
 
